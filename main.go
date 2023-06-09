@@ -12,8 +12,8 @@ import (
 
 func main() {
 	godotenv.Load(".env")
-	Whatsapp()
-	// Discord()
+	// Whatsapp()
+	Discord()
 
 }
 
